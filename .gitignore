@@ -1,0 +1,9 @@
+# Temporary Files
+#
+tmp*
+
+# VSCode
+#
+.vscode/*
+.settings/*
+*.code-workspace
